@@ -152,7 +152,7 @@ case $number in
 		;;
 		
 	*)	
-		echo "Please give valid choice!!!"
+		echo "Please enter a valid option!!!"
 		;;
 
 esac
